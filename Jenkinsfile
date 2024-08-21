@@ -23,7 +23,7 @@ pipeline {
                 sh '''
                 cd myapp
                 python3 hello.py
-                python3 hello.py --name=RaymondHui3
+                python3 hello.py --name=RaymondHui4
                 '''
             }
         }
